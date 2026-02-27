@@ -1,0 +1,1 @@
+{"name":"999-media-player","version":"1.0.0","description":"A media player project","main":"index.js","scripts":{"start":"node index.js"},"author":"ghostedareaper999-lang","license":"MIT","dependencies":{}}
